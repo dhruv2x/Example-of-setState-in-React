@@ -1,6 +1,7 @@
 # Example-of-setState-in-React
 we use the setState() method to change the state object. It ensures that the component has been updated and calls for re-rendering of the component.
 Just a example of set State in React Js which is used for changing the element dynamically
+
 Before
 ![Screenshot (232)](https://user-images.githubusercontent.com/84621641/219968498-a7364900-ae7c-4281-b7ba-d0ec3331a5fc.png)
 
